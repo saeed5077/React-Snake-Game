@@ -1,0 +1,41 @@
+.main-game-container{
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  background-color:green;
+  color:white;
+}
+
+.innergamecontainer{
+  width:500px;
+  margin:auto;
+  text-align:center;
+}
+
+.game-tile{
+  width:26px;
+}
+
+.Restart{
+  width: fit-content;
+  height: 30px;
+  
+  background-color: blue;
+  color:white;
+  border-radius: 5px;
+
+
+}
+body{
+  background-color: black;
+}
+.mainDiv{
+    text-align: center;
+  background-color: yellowgreen;
+}
+.snake{
+    height: 470px;
+    width: 100%;
+}
